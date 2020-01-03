@@ -1,7 +1,7 @@
 package gorm
 
 import (
-	apmsql "github.com/opentracing-contrib/sql"
+	apmsql "github.com/Heer0/sql"
 	"github.com/jinzhu/gorm"
 	"github.com/pkg/errors"
 

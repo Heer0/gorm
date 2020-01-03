@@ -1,4 +1,4 @@
-# gorm  <github.com/opentracing-contrib/gorm>
+# gorm  <github.com/Heer0/gorm>
 
 
 Package gorm provides a means of instrumenting GORM database operations.
@@ -9,8 +9,8 @@ Once you have a *gorm.DB from apmgorm.Open, you can call apmgorm.WithContext to 
 
 ```
 import (
-    apmgorm "github.com/opentracing-contrib/gorm"
-    _ "github.com/opentracing-contrib/gorm/dialects/mysql"
+    apmgorm "github.com/Heer0/gorm"
+    _ "github.com/Heer0/gorm/dialects/mysql"
 )
 
 func main() {

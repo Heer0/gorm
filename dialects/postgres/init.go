@@ -3,7 +3,7 @@ package pq
 import (
 	pq "github.com/lib/pq"
 
-	apmsql "github.com/opentracing-contrib/sql"
+	apmsql "github.com/Heer0/sql"
 )
 
 func init() {

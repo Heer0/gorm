@@ -9,7 +9,7 @@ import (
 	"strings"
 	"unicode"
 
-	apmsql "github.com/opentracing-contrib/sql"
+	apmsql "github.com/Heer0/sql"
 )
 
 // ParseDSN parses the given lib/pq datasource name, which may

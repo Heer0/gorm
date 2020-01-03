@@ -3,7 +3,7 @@ package mysql
 import (
 	"github.com/go-sql-driver/mysql"
 
-	apmsql "github.com/opentracing-contrib/sql"
+	apmsql "github.com/Heer0/sql"
 )
 
 func init() {
