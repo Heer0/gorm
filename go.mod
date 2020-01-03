@@ -1,4 +1,4 @@
-module github.com/opentracing-contrib/gorm
+module github.com/Heer0/gorm
 
 require (
 	cloud.google.com/go v0.40.0 // indirect
